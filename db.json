@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "nkinoi",
+      "description": "onoi",
+      "id": 1
+    },
+    {
+      "title": "Stream 01",
+      "description": "This is a stream",
+      "userId": "100417084838155817012",
+      "id": 2
+    },
+    {
+      "title": "kjnjk k njj",
+      "description": "jjjjjjjjjjjjjjjkk",
+      "id": 3
+    },
+    {
+      "title": "Programmatic N",
+      "description": "Programmatic navigation",
+      "id": 4
+    },
+    {
+      "title": "Stream 02",
+      "description": "lknononon",
+      "userId": "100417084838155817012",
+      "id": 5
+    }
+  ]
+}
